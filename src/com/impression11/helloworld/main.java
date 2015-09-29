@@ -9,7 +9,7 @@ public class main {
 
     public static void main(String[] args) {
 
-        int hello = 1;
+        int hello = 55;
         hello++;
         String jello = "hello there";
         System.out.println(hello);
